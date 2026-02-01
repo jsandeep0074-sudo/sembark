@@ -27,6 +27,7 @@ Before setting up the project, ensure you have the following installed:
 - Open phpMyAdmin or MySQL command line
 - Create a new database (e.g., `sembark_db`)
 - Import the database file `laravel.sql` from the project root directory into your database
+- <b><i>Please modify database details as per your local configuration in the .env file included</i></b>
 
 3. **Install Dependencies and Start Development Server**
 - npm install
